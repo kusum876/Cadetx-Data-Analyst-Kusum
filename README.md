@@ -1,1 +1,20 @@
-# Cadetx-Data-Analyst-Kusum
+## CadetX Virtual Work Experience – Data Analyst Track
+
+**Intern:** Kusum Chhetri
+**Cohort:** CX-2026-ECDS-02
+**Role:** Data Analyst Trainee
+
+## About
+This repository contains my completed tasks for the CadetX Virtual Work Experience Programme. Each task is organized in its own folder with the notebook, datasets, and a detailed summary of findings.
+
+## Completed Tasks
+
+| Task | Description | Folder |
+|---|---|---|
+| Task 01 | EV Charging Demand Forecasting | [Task-01-EV-Charging-Demand-Forecasting](./Task-01-EV-Charging-Demand-Forecasting) |
+
+## Tools Used
+Python, pandas, matplotlib, Prophet, scikit-learn (Google Colab)
+
+## Connect
+- Email: kusumchhetri146@gmail.com
