@@ -12,9 +12,11 @@ This repository contains my completed tasks for the CadetX Virtual Work Experien
 | Task | Description | Folder |
 |---|---|---|
 | Task 01 | EV Charging Demand Forecasting | [Task-01-EV-Charging-Demand-Forecasting](./Task-01-EV-Charging-Demand-Forecasting) |
+| Task 03 | Charger Utilisation & Efficiency Analysis | [Task-03-Charger-Utilisation-Efficiency-Analysis](./Task-03-Charger-Utilisation-Efficiency-Analysis) |
+
 
 ## Tools Used
-Python, pandas, matplotlib, Prophet, scikit-learn (Google Colab)
+Python, pandas, matplotlib, Prophet, scikit-learn (Google Colab),PowerBI(Desktop)
 
 ## Connect
 - Email: kusumchhetri146@gmail.com
