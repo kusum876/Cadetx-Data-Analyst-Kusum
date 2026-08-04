@@ -33,7 +33,7 @@ Revenue is distributed almost evenly across all four segments, with no single us
 Since fleet users do not show meaningfully higher usage, energy consumption, or spend compared to public users, there is **no strong evidence-based case for prioritising fleet-specific partnerships** based on usage/revenue data alone. Any fleet partnership strategy should be evaluated on other strategic factors (e.g., contract stability, predictable demand scheduling, off-peak charging potential) rather than an assumption that fleets are inherently higher-value customers.
 
 ## Files in this repository
-- `Task9_Fleet_vs_Public_Notebook.ipynb` — full code and outputs
+- `Task9_Fleet_vs_Public_User_Behaviour_Analysis.ipynb` — full code and outputs
 - `user_type_comparison.csv` — segmented usage dataset
 - `SUMMARY.md` — this file
 
