@@ -14,6 +14,8 @@ This repository contains my completed tasks for the CadetX Virtual Work Experien
 | Task 01 | EV Charging Demand Forecasting | [Task-01-EV-Charging-Demand-Forecasting](./Task-01-EV-Charging-Demand-Forecasting) |
 | Task 03 | Charger Utilisation & Efficiency Analysis | [Task-03-Charger-Utilisation-Efficiency-Analysis](./Task-03-Charger-Utilisation-Efficiency-Analysis) |
 | Task 09 | Fleet vs Public User Behaviour Analysis | [Task-09-Fleet-vs-Public-User-Behaviour-Analysis](./Task-09-Fleet-vs-Public-User-Behaviour-Analysis) |
+| Task 12 | Year-over-Year Growth Analytics | [Task-12-Year-over-Year-Growth-Analytics](./Task-12-Year-over-Year-Growth-Analytics) |
+
 
 
 ## Tools Used
