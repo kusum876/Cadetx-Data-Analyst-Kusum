@@ -15,8 +15,9 @@ This repository contains my completed tasks for the CadetX Virtual Work Experien
 | Task 03 | Charger Utilisation & Efficiency Analysis | [Task-03-Charger-Utilisation-Efficiency-Analysis](./Task-03-Charger-Utilisation-Efficiency-Analysis) |
 | Task 09 | Fleet vs Public User Behaviour Analysis | [Task-09-Fleet-vs-Public-User-Behaviour-Analysis](./Task-09-Fleet-vs-Public-User-Behaviour-Analysis) |
 | Task 12 | Year-over-Year Growth Analytics | [Task-12-Year-over-Year-Growth-Analytics](./Task-12-Year-over-Year-Growth-Analytics) |
-| Task 16 | Energy Consumption & Grid Load Analysis | [Task-16-Energy-Consumption-Grid-Load-Analysis](./Task-16-Energy-Consumption-Grid-Load-Analysis) |) 
+| Task 16 | Energy Consumption & Grid Load Analysis | [Task-16-Energy-Consumption-Grid-Load-Analysis](./Task-16-Energy-Consumption-Grid-Load-Analysis) |
 | Task 13 | Station Performance Ranking System | [Task-13-Station-Performance_Ranking-System](./Task-13-Station-Performance-Ranking-System) |
+| Task 15 | Customer Lifetime Value CLV Estimation | [Task-15-Customer-Lifetime-Value-CLV-Estimation](./Task-15-Customer-Lifetime-Value-CLV -Estimation) |
 ## Tools Used
 Python, pandas, matplotlib, Prophet, scikit-learn (Google Colab),PowerBI(Desktop)
 
