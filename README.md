@@ -19,6 +19,7 @@ This repository contains my completed tasks for the CadetX Virtual Work Experien
 | Task 13 | Station Performance Ranking System | [Task-13-Station-Performance_Ranking-System](./Task-13-Station-Performance-Ranking-System) |
 | Task 15 | Customer Lifetime Value CLV Estimation | [Task-15-Customer-Lifetime-Value-CLV-Estimation](./Task-15-Customer-Lifetime-Value-CLV-Estimation) |
 | Task 02 | Revenue Forecasting Price Sensitivity | [Task-02-Revenue-Forecasting-Price-Sensitivity](./Task-02-Revenue-Forecasting-Price-Sensitivity) |
+| Task 07 | Time-of-Day-Day-of-Week-Pattern-Analysis | [Task-07-Time-of-Day-Day-of-Week-Pattern=Analysis](./Task-07-Time-of-Day-Day-of-Week-Pattern-Analysis) |
 
 
 ## Tools Used
