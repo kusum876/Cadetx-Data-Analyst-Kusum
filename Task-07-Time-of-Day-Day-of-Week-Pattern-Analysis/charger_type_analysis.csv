@@ -1,0 +1,4 @@
+charger_type,session_count,charger_count,sessions_per_charger
+DC_150kW,96977,69,1405.463768115942
+DC_300kW,60226,35,1720.7428571428572
+DC_50kW,136821,95,1440.221052631579
