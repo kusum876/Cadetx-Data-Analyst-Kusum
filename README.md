@@ -20,7 +20,7 @@ This repository contains my completed tasks for the CadetX Virtual Work Experien
 | Task 15 | Customer Lifetime Value CLV Estimation | [Task-15-Customer-Lifetime-Value-CLV-Estimation](./Task-15-Customer-Lifetime-Value-CLV-Estimation) |
 | Task 02 | Revenue Forecasting Price Sensitivity | [Task-02-Revenue-Forecasting-Price-Sensitivity](./Task-02-Revenue-Forecasting-Price-Sensitivity) |
 | Task 07 | Time-of-Day-Day-of-Week-Pattern-Analysis | [Task-07-Time-of-Day-Day-of-Week-Pattern=Analysis](./Task-07-Time-of-Day-Day-of-Week-Pattern-Analysis) |
-
+| Task 07 | Dynamic-Pricing-Recommendation-System | [Task-08-Dynamic-Pricing-Recommendation](./Task-08-Dynamic-Pricing-Recommendation-System) |
 
 ## Tools Used
 Python, pandas, matplotlib, Prophet, scikit-learn (Google Colab),PowerBI(Desktop)
