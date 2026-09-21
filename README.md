@@ -22,6 +22,7 @@ This repository contains my completed tasks for the CadetX Virtual Work Experien
 | Task 07 | Time-of-Day-Day-of-Week-Pattern-Analysis | [Task-07-Time-of-Day-Day-of-Week-Pattern=Analysis](./Task-07-Time-of-Day-Day-of-Week-Pattern-Analysis) |
 | Task 08 | Dynamic-Pricing-Recommendation-System | [Task-08-Dynamic-Pricing-Recommendation](./Task-08-Dynamic-Pricing-Recommendation-System) |
 | Task 06 | Optimal Location Planning for New Stations | [Task-06-Optimal-Location-Planning-New-Stations](./Task-06-Optimal-Location-Planning-New-Stations) |
+| Task 04 | Customer Behaviour Segmentation | [Task-04-Customer-Behaviour-Segmentation](./Task-04-Customer-Behaviour-Segmentation) |
 
 ## Tools Used
 Python, pandas, matplotlib, Prophet, scikit-learn (Google Colab),PowerBI(Desktop)
